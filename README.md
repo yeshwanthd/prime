@@ -2,6 +2,6 @@
 
 <img src="./prime.jpeg">
 
-my first repository
+My first repository.
 
-the code prints and counts prime numbers till n
+The code prints and counts prime numbers till n, where n is a natural number.
