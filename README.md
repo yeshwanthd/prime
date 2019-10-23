@@ -1,6 +1,7 @@
 # prime
 
 <img src="./prime.jpeg">
+<img src="./prime.jpeg">
 
 My first repository.
 
