@@ -2,7 +2,7 @@
 int main(void)
 {
  int a, i, j, k, count;
- scanf("%d", &a);
+ scanf("%d", &a);//take input from the users
  k = 0;
  if (a>1)
    {count = 1;
