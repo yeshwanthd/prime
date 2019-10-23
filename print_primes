@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
- int a, i, j, k, count;
+ int a, i, j, k, count;//declare the variables
  scanf("%d", &a);
  k = 0;
  if (a>1)
